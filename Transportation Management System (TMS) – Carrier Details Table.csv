@@ -1,0 +1,7 @@
+﻿Carrier ID,Warehouse ID,Average Transportation Cost Per Unit (USD),Reference Field 1,Reference Field 2,Transports Hazardous Materials?
+CARR001,WH001,2.17,,,No
+CARR002,WH001,3.5,,,No
+CARR003,WH001,4.05,,,Yes
+CARR001,WH002,3.22,,,No
+CARR002,WH002,3.45,,,No
+CARR003,WH002,2.98,,,Yes

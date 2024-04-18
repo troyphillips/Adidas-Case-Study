@@ -1,0 +1,5 @@
+﻿Product ID,On Hand Units,Open Unshipped Orders,Supplier ID,Warehouse ID,Cost To Produce Per Unit (USD),Average Selling Price Per Unit (USD),Average Handling Cost Per Unit (USD),Hazardous?
+PROD001,100,10,SUPP001,WH001,5,20,1,No
+PROD002,50,45,SUPP002,WH001,10,20,2,No
+PROD003,75,75,SUPP003,WH001,100,105,2,Yes
+PROD001,100,100,SUPP001,WH002,5,20,1,No
